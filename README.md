@@ -5,7 +5,6 @@ You can use the [editor on GitHub](https://github.com/JiaojiaoYe1994/jiaojiaoye.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Projects
-* [Robot-Motion-Learning-with-Reinforcement-Learning](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
 ```markdown
 
 * [Robot-Motion-Learning-with-Reinforcement-Learning](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
