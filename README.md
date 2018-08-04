@@ -4,15 +4,10 @@ You can use the [editor on GitHub](https://github.com/JiaojiaoYe1994/jiaojiaoye.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Link
-* Linkedin [editor on GitHub](https://www.linkedin.com/in/jiaojiao-ye-99830b14a/) 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Projects
 ```markdown
-Syntax highlighted code block
+
+* [Robot-Motion-Learning-with-Reinforcement-Learning] (https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
 
 # Header 1
 ## Header 2
@@ -30,6 +25,9 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Link
+* Linkedin [JiaojiaoYe on GitHub](https://www.linkedin.com/in/jiaojiao-ye-99830b14a/) 
 
 ### Jekyll Themes
 
