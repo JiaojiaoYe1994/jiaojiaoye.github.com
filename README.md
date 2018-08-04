@@ -5,10 +5,10 @@ You can use the [editor on GitHub](https://github.com/JiaojiaoYe1994/jiaojiaoye.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Projects
+* [Robot-Motion-Learning-with-Reinforcement-Learning](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
 ```markdown
 
-* [Robot-Motion-Learning-with-Reinforcement-Learning] (https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
-
+* [Robot-Motion-Learning-with-Reinforcement-Learning](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
 # Header 1
 ## Header 2
 ### Header 3
@@ -27,7 +27,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Link
-* Linkedin [JiaojiaoYe on GitHub](https://www.linkedin.com/in/jiaojiao-ye-99830b14a/) 
+* Linkedin [JiaojiaoYe on Linkedin](https://www.linkedin.com/in/jiaojiao-ye-99830b14a/) 
 
 ### Jekyll Themes
 
