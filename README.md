@@ -1,6 +1,16 @@
 ## Welcome to JiaojiaoYe Pages
 
-You can use the [editor on GitHub](https://github.com/JiaojiaoYe1994/jiaojiaoye.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<p align='center'>    
+	<img src='imgs/profil.jpg' width='440'/>
+<p/>
+Perception Intern at Robert Bosch GmbH
+Master student of Electrical and Computer Engineering,
+Technical University of Munich
+
+
+[GitHub](https://github.com/JiaojiaoYe1994) | [Linkedin](https://www.linkedin.com/in/jiaojiao-ye-99830b14a/)
+
+ [editor on GitHub](https://github.com/JiaojiaoYe1994/jiaojiaoye.github.com/edit/master/README.md) 
 
 ### Projects
 * [Robot-Motion-Learning-with-Reinforcement-Learning](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
