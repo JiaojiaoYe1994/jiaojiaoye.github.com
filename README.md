@@ -1,8 +1,10 @@
 ## Welcome to JiaojiaoYe Pages
 
 <p align='center'>    
-	<img src='imgs/profil.jpg' width='240'/>
+	<img src='imgs/profil.jpg' width='240' height="240"/>
 <p/>
+
+![Image]https://github.com/JiaojiaoYe1994/jiaojiaoye.github.com/blob/master/imgs/profil.jpg
 
 Perception Intern at Robert Bosch GmbH
 
