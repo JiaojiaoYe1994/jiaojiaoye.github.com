@@ -1,10 +1,13 @@
 ## Welcome to JiaojiaoYe Pages
 
 <p align='center'>    
-	<img src='imgs/profil.jpg' width='440'/>
+	<img src='imgs/profil.jpg' width='240'/>
 <p/>
+
 Perception Intern at Robert Bosch GmbH
+
 Master student of Electrical and Computer Engineering,
+
 Technical University of Munich
 
 
@@ -16,15 +19,12 @@ Technical University of Munich
 * [Robot-Motion-Learning-with-Reinforcement-Learning](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
 
 ```markdown
+
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
 1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
