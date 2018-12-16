@@ -3,7 +3,7 @@
 
 
 
-![Profil](imgs/profil.jpg)
+![Profil](imgs/profil.jpg width='240' height='240' )
 
 
 Perception Intern at Robert Bosch GmbH
@@ -19,18 +19,10 @@ I'm a master student at TUM, working on computer vision, machine learning and ro
 
 
 ### Projects
-* **Robot-Motion-Learning-with-Reinforcement-Learning** 
-Humanoid robot reaching Movement Learning with Deep Reinforcement Learning.
+* **Motion Planning with Reinforcement Learning** 
+Humanoid robot reaching Movement Learning with Deep Deterministic Policy Gradient(DDPG).
 [project] | [video](https://youtu.be/oOG4bsWDT0M) | [github](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
 
-```markdown
-
-1. Numbered
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://github.com/JiaojiaoYe1994/jiaojiaoye.github.com/blob/master/imgs/profil.jpg)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
