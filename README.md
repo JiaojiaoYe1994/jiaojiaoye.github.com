@@ -3,7 +3,7 @@
 
 
 
-![Test Image 5](src='imgs/profil.jpg' )
+![Profil](imgs/profil.jpg)
 
 
 Perception Intern at Robert Bosch GmbH
@@ -19,7 +19,9 @@ I'm a master student at TUM, working on computer vision, machine learning and ro
 
 
 ### Projects
-* [Robot-Motion-Learning-with-Reinforcement-Learning](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning) [project] | [video] (https://youtu.be/oOG4bsWDT0M)
+* **Robot-Motion-Learning-with-Reinforcement-Learning** 
+Humanoid robot reaching Movement Learning with Deep Reinforcement Learning.
+[project] | [video](https://youtu.be/oOG4bsWDT0M) | [github](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
 
 ```markdown
 
