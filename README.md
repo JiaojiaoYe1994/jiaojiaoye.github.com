@@ -20,7 +20,7 @@ I'm a master student at TUM, working on computer vision, machine learning and ro
 
 ### Projects
 * **Motion Planning with Reinforcement Learning** 
-Humanoid robot reaching Movement Learning with Deep Deterministic Policy Gradient(DDPG).
+Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy Gradient(DDPG).
 [project](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/motion_learning_with_rl) | [video](https://youtu.be/oOG4bsWDT0M) | [github](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
 
 
