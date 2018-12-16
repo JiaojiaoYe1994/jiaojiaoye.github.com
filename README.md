@@ -3,7 +3,7 @@
 
 
 
-![Profil](imgs/profil.jpg width='240' height='240' )
+![Profil](imgs/profil.jpg)
 
 
 Perception Intern at Robert Bosch GmbH
