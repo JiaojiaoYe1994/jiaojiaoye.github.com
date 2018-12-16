@@ -2,29 +2,26 @@
 
 
 
-![useful image]({{ site.url }}/imgs/profil.jpg)
 
-![Test Image 5](https://github.com/JiaojiaoYe1994/jiaojiaoye.github.com/blob/master/imgs/profil.jpg)
+![Test Image 5](src='imgs/profil.jpg' )
 
 
 Perception Intern at Robert Bosch GmbH
 
 Master student of Electrical and Computer Engineering,
 
-Technical University of Munich
+Technical University of Munich, Germany
 
+I'm a master student at TUM, working on computer vision, machine learning and robot control.  
+**Email:** jiaojiao.ye@tum.de
 
 [GitHub](https://github.com/JiaojiaoYe1994) | [Linkedin](https://www.linkedin.com/in/jiaojiao-ye-99830b14a/)
 
 
 ### Projects
-* [Robot-Motion-Learning-with-Reinforcement-Learning](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
+* [Robot-Motion-Learning-with-Reinforcement-Learning](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning) [project] | [video] (https://youtu.be/oOG4bsWDT0M)
 
 ```markdown
-
-# Header 1
-## Header 2
-### Header 3
 
 1. Numbered
 
@@ -35,13 +32,5 @@ Technical University of Munich
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Link
-* Linkedin [JiaojiaoYe on Linkedin](https://www.linkedin.com/in/jiaojiao-ye-99830b14a/) 
+### Publications
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JiaojiaoYe1994/jiaojiaoye.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
