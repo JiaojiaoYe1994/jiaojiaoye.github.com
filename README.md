@@ -5,7 +5,7 @@
 <p/>
 
 
-![useful image]({{ site.url }}/imgs/profil.jp)
+![useful image]({{ site.url }}/imgs/profil.jpg)
 
 
 Perception Intern at Robert Bosch GmbH
