@@ -6,16 +6,19 @@
 ![Profil](imgs/profil.jpg)
 
 
-Perception Intern at Robert Bosch GmbH
+I'm currently pursuing my master degree at Eletrical and Computer Engineering Department, Technical University of Munich, Germany. At the same time, now I'm doing a Internship about Perception based on GAN technique at Robert Bosch GmbH.
 
-Master student of Electrical and Computer Engineering,
+Before this, 2016 I got my Bachelor of Engineer at Zhejiang University in China. Through different lectures and projects, I have obtained the chance to be exposed to the field of artificial intelligence, robotics, data analysis and computer vision. I am particularly keen to do some research on the application of artificial intelligence, especially the combination of Robotics and Artificial Intelligence.
 
-Technical University of Munich, Germany
-
-I'm a master student at TUM, working on computer vision, machine learning and robot control.  
 **Email:** jiaojiao.ye@tum.de
 
 [GitHub](https://github.com/JiaojiaoYe1994) | [Linkedin](https://www.linkedin.com/in/jiaojiao-ye-99830b14a/)
+
+
+### Research Interest
+* **Machine Learning**: Generative Model, Reinforcement Learning, Feature Representation, Classification, High Dimension Reduction
+* **Robotics**: Trajectory Planning, Motion Control
+* **Computer Vision**: Image Synthesis, Image Manipulation
 
 
 ### Projects
@@ -24,7 +27,6 @@ Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy G
 [project](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/motion_learning_with_rl) | [video](https://youtu.be/oOG4bsWDT0M) | [github](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Publications
-
+* A Generative Map for Image-based Camera Localization. Mingpan Guo, Stefan Matthes, Jiaojiao Ye and Hao Shen, 2019, under review
