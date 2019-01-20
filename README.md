@@ -23,16 +23,16 @@ Before this, 2016 I got my Bachelor of Engineer at Zhejiang University in China.
 
 ### Projects
 * **Motion Planning with Reinforcement Learning** 
+
 Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy Gradient(DDPG).
- <p align='center'>    
-	<img src='./imgs/poppy.gif' width='440'/>
-<p/>
+
 [project](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/motion_learning_with_rl) | [video](https://youtu.be/oOG4bsWDT0M) | [github](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
 
 
 
 ### Tutorial
 * **CS231n's Assignments** 
+
 I've worked througn Stanford's Convolutional Neural Networks for Visual Recognition course (cs231n)[http://cs231n.stanford.edu], which is a wonderful lecture for diving into Deep Learning. [Here](https://github.com/JiaojiaoYe1994/cs231_assignment_solution1718) find out my solution for assignments.
 
 
