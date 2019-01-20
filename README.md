@@ -25,11 +25,9 @@ Before this, 2016 I got my Bachelor of Engineer at Zhejiang University in China.
 * **Motion Planning with Reinforcement Learning** 
 Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy Gradient(DDPG).
  <p align='center'>    
-	<img src='/imgs/poppy.gif' width='440'/>
+	<img src='./imgs/poppy.gif' width='440'/>
 <p/>
 [project](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/motion_learning_with_rl) | [video](https://youtu.be/oOG4bsWDT0M) | [github](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
-
-
 
 
 
