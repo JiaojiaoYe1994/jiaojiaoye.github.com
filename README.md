@@ -33,7 +33,7 @@ Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy G
 ### Tutorial
 * **CS231n's Assignments** 
 
-I've worked througn Stanford's Convolutional Neural Networks for Visual Recognition course (cs231n)[http://cs231n.stanford.edu], which is a wonderful lecture for diving into Deep Learning. [Here](https://github.com/JiaojiaoYe1994/cs231_assignment_solution1718) find out my solution for assignments.
+I've worked througn Stanford's Convolutional Neural Networks for Visual Recognition course [cs231n](http://cs231n.stanford.edu), which is a wonderful lecture for diving into Deep Learning. [Here](https://github.com/JiaojiaoYe1994/cs231_assignment_solution1718) find out my solution for assignments.
 
 
 ### Publications
