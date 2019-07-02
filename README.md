@@ -38,3 +38,6 @@ I've worked througn Stanford's Convolutional Neural Networks for Visual Recognit
 
 ### Publications
 * A Generative Map for Image-based Camera Localization. Mingpan Guo, Stefan Matthes, Jiaojiao Ye and Hao Shen, 2019, under review
+
+### Hobbies
+[Travel](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/travel/travel) | [Dance]()
