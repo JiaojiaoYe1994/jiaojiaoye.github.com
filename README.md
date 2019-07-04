@@ -31,16 +31,20 @@ Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy G
 ### Blog
 
 * **Image translation papers**
-In this [blog](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/img_translation_paper), I summarize some recent papers from CVPR. ECCV related to topic image translation.
+
+In this [blog](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/paper/img_translation_paper), I summarize some recent papers from CVPR. ECCV related to topic image translation.
 
 ### Tutorial
 * **CS231n's Assignments** 
 
-I've worked througn Stanford's Convolutional Neural Networks for Visual Recognition course [cs231n](http://cs231n.stanford.edu), which is a wonderful lecture for diving into Deep Learning. [Here](https://github.com/JiaojiaoYe1994/cs231_assignment_solution1718) find out my solution for assignments.
+I've worked through Stanford's Convolutional Neural Networks for Visual Recognition course [cs231n](http://cs231n.stanford.edu), which is a wonderful lecture for diving into Deep Learning. [Here](https://github.com/JiaojiaoYe1994/cs231_assignment_solution1718) find out my solution for assignments.
 
 
 ### Publications
 * A Generative Map for Image-based Camera Localization. Mingpan Guo, Stefan Matthes, Jiaojiao Ye and Hao Shen, 2019, under review
+[paper](https://arxiv.org/abs/1902.11124) | [GitHub](https://github.com/Mingpan/generative_map)
+
 
 ### Hobbies
+
 [Travel](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/travel/travel) | [Dance](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/dance/dance)
