@@ -28,7 +28,10 @@ Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy G
 
 [project](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/motion_learning_with_rl) | [video](https://youtu.be/oOG4bsWDT0M) | [github](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
 
+### Blog
 
+* **Image translation papers**
+In this [blog](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/img_translation_paper), I summarize some recent papers from CVPR. ECCV related to topic image translation.
 
 ### Tutorial
 * **CS231n's Assignments** 
