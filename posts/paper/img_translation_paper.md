@@ -1,9 +1,10 @@
 ## Image-to-Image translation
 =============================================
+
 In this blog, I summarize some recent papers from CVPR. ECCV related to topic image translation, Domain adaption. The content is based on my personal understanding, so for sure there maybe some misunderstanding or mistakes. Any feedbacks are welcome.
 
  
-# High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs
+### High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs
 paper(https://arxiv.org/pdf/1711.11585.pdf) | GitHub(https://github.com/NVIDIA/pix2pixHD)
 
 This paper is the collabrative work from Nvidia and University of Berkely, published in CVPR 2108
@@ -54,7 +55,7 @@ The total loss is like the following,
  - almost realtime inference(20-30 ms on GTX 1080Ti,)
 
 
-# Multimodal Unsupervised Image-to-Image Translation
+### Multimodal Unsupervised Image-to-Image Translation
 
 paper(https://arxiv.org/abs/1804.04732) | GitHub(https://github.com/NVlabs/MUNIT) 
 
@@ -76,12 +77,12 @@ style: rendering of the structure
  - disentangled representation of content and style???
 
 
-# Unsupervised Image-to-Image Translation 
+### Unsupervised Image-to-Image Translation 
 paper(https://arxiv.org/pdf/1703.00848.pdf) | GitHub(https://github.com/mingyuliutw/UNIT)
 
 In their new work MUNIT, they also contain implementation of UNIT, so I would like to suggest to check out in their Pytorch implementation of MUNIT(https://github.com/NVlabs/MUNIT)
 
-# Toward Multimodal Image-to-Image Translation
+### Toward Multimodal Image-to-Image Translation
 paper(https://arxiv.org/pdf/1711.11586.pdf) | GitHub()
 
 
@@ -94,4 +95,4 @@ NIPs 2017
 
 
 
-> 👉[Jiaojiao Ye web](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/)
+👉[Jiaojiao Ye web](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/)
