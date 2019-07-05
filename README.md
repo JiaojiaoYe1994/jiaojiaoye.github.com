@@ -8,7 +8,10 @@
 
 I'm currently pursuing my master degree at Eletrical and Computer Engineering Department, Technical University of Munich, Germany. At the same time, now I'm doing a Internship about vision-based Perception with GAN technique for L5 autonomous driving at Robert Bosch GmbH.
 
-Before this, 2016 I got my Bachelor of Engineer at Zhejiang University in China. Through different lectures and projects, I have obtained the chance to be exposed to the field of artificial intelligence, robotics, data analysis and computer vision. I am particularly keen to do some research on the application of artificial intelligence, especially the combination of Robotics and Artificial Intelligence.
+Before this, 2016 I got my Bachelor of Engineer at Zhejiang University in China. Through different lectures and projects, I have obtained the chance to be exposed to the field of artificial intelligence, robotics, data analysis and computer vision. 
+
+I am now a part of the AI research Lab at Volkswagen Data Lab, working on Conditional VAE and Probabilistic Movement Primitives on Human-Robot-Interaction. 
+I am particularly keen to do some research on the application of artificial intelligence, especially the combination of Robotics and Artificial Intelligence.
 
 **Email:** jiaojiao.ye@tum.de
 
