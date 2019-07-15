@@ -1,7 +1,8 @@
 ## Image-to-Image translation
-=============================================
+
 
 In this blog, I summarize some recent papers from CVPR. ECCV related to topic image translation, Domain adaption. The content is based on my personal understanding, so for sure there maybe some misunderstanding or mistakes. Any feedbacks are welcome.
+
 
  
 ### High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs
@@ -11,8 +12,7 @@ This paper is the collabrative work from Nvidia and University of Berkely, publi
 
 * Idea
 1. Image synthesis
-2. Image manipulation
-add additional feature maps
+2. Image manipulation by adding additional feature maps
 
 perform Autoencoder and KMeans Cluster to encode diffenerent features of style. At test time, randomly choose one cluster as style feature and concatenat with semantic label maps as input to generator  
 
@@ -24,6 +24,9 @@ There are multiple tricks of network architecture design in this paper to genera
 	<img src='./imgs/gen.png' width='440'/>
 <p/>
 2. Multiscale Discriminator
+ <p align='center'>    
+	<img src='./imgs/dis.png' width='440'/>
+<p/>
 
 * Loss function
 The loss function consists of two parts:
@@ -39,7 +42,7 @@ The loss function consists of two parts:
 <p/>
 
 
-The total loss is like the following,
+The total loss is like the following
  <p align='center'>    
 	<img src='./imgs/total_loss.png' width='440'/>
 <p/>
@@ -52,7 +55,7 @@ The total loss is like the following,
  - user interactive image manipulation 
  - require instance map to improve image quality
  - supervised learning
- - almost realtime inference(20-30 ms on GTX 1080Ti,)
+ - almost realtime inference(20-30 ms on GTX 1080Ti)
 
 
 ### Multimodal Unsupervised Image-to-Image Translation
@@ -60,9 +63,9 @@ The total loss is like the following,
 paper(https://arxiv.org/abs/1804.04732) | GitHub(https://github.com/NVlabs/MUNIT) 
 
 * Idea
-diverse, realistic images
+synthesize diverse, realistic images
 
-domain-invariant loss
+using domain-invariant loss
 
 content: underlying spatial structure
 style: rendering of the structure
