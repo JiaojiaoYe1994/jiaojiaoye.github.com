@@ -6,7 +6,7 @@ In this blog, I summarize some recent papers from CVPR. ECCV related to topic im
 
  
 ### High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs
-paper(https://arxiv.org/pdf/1711.11585.pdf) | GitHub(https://github.com/NVIDIA/pix2pixHD)
+[paper](https://arxiv.org/pdf/1711.11585.pdf) | [GitHub](https://github.com/NVIDIA/pix2pixHD)
 
 This paper is the collabrative work from Nvidia and University of Berkely, published in CVPR 2108
 
@@ -14,9 +14,10 @@ This paper is the collabrative work from Nvidia and University of Berkely, publi
 1. Image synthesis
 2. Image manipulation by adding additional feature maps
 
-perform Autoencoder and KMeans Cluster to encode diffenerent features of style. At test time, randomly choose one cluster as style feature and concatenat with semantic label maps as input to generator  
+perform Autoencoder and KMeans Cluster to encode diffenerent features of style. At test time, randomly choose one cluster as style feature and concatenat with semantic label maps as input to generator.  
 
 * Network
+
 There are multiple tricks of network architecture design in this paper to generate photorealistic and high resolution network
 
 1. Global and Local Generator Coarse-to-fine generator
@@ -25,10 +26,11 @@ There are multiple tricks of network architecture design in this paper to genera
 <p/>
 2. Multiscale Discriminator
  <p align='center'>    
-	<img src='./imgs/dis.png' width='440'/>
+	<img src='./imgs/dis.png' width='440' height="550" />
 <p/>
 
 * Loss function
+
 The loss function consists of two parts:
 
 1. Adeversarial loss
@@ -60,9 +62,10 @@ The total loss is like the following
 
 ### Multimodal Unsupervised Image-to-Image Translation
 
-paper(https://arxiv.org/abs/1804.04732) | GitHub(https://github.com/NVlabs/MUNIT) 
+[paper](https://arxiv.org/abs/1804.04732) | [GitHub](https://github.com/NVlabs/MUNIT) 
 
 * Idea
+
 synthesize diverse, realistic images
 
 using domain-invariant loss
@@ -81,12 +84,12 @@ style: rendering of the structure
 
 
 ### Unsupervised Image-to-Image Translation 
-paper(https://arxiv.org/pdf/1703.00848.pdf) | GitHub(https://github.com/mingyuliutw/UNIT)
+[paper](https://arxiv.org/pdf/1703.00848.pdf) | [GitHub](https://github.com/mingyuliutw/UNIT)
 
 In their new work MUNIT, they also contain implementation of UNIT, so I would like to suggest to check out in their Pytorch implementation of MUNIT(https://github.com/NVlabs/MUNIT)
 
 ### Toward Multimodal Image-to-Image Translation
-paper(https://arxiv.org/pdf/1711.11586.pdf) | GitHub()
+[paper](https://arxiv.org/pdf/1711.11586.pdf) 
 
 
 This paper is the collabrative work from Adobe and University of Berkely, 
