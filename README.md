@@ -11,6 +11,7 @@ I'm currently pursuing my master degree at Eletrical and Computer Engineering De
 Before this, 2016 I got my Bachelor of Engineer at Zhejiang University in China. Through different lectures and projects, I have obtained the chance to be exposed to the field of artificial intelligence, robotics, data analysis and computer vision. 
 
 I am now a part of the AI research Lab at Volkswagen Data Lab, working on Conditional VAE and Probabilistic Movement Primitives on Human-Robot-Interaction. 
+
 I am particularly keen to do some research on the application of artificial intelligence, especially the combination of Robotics and Artificial Intelligence.
 
 **Email:** jiaojiao.ye@tum.de
@@ -30,6 +31,18 @@ I am particularly keen to do some research on the application of artificial inte
 Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy Gradient(DDPG).
 
 [project](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/motion_learning_with_rl) | [video](https://youtu.be/oOG4bsWDT0M) | [github](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
+
+
+* **Car racing game playing**
+
+Apply Deep Deterministic Policy Gradient(DDPG) to control Car agent's movement.
+
+[video](https://youtu.be/B1JdUByUQEw) | [torchs img](https://drive.google.com/uc?id=1DaJIMTrMArL7ODlry6aDYG2w3XFr3_UC&export=download)
+
+
+
+
+
 
 ### Blog
 

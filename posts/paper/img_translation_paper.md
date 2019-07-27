@@ -8,7 +8,7 @@ In this blog, I summarize some recent papers from CVPR. ECCV related to topic im
 ### High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs
 [paper](https://arxiv.org/pdf/1711.11585.pdf) | [GitHub](https://github.com/NVIDIA/pix2pixHD)
 
-This paper is the collabrative work from Nvidia and University of Berkely, published in CVPR 2108
+This paper is the collabrative work from Nvidia and University of Berkely, published in CVPR 2018.
 
 * Idea
 1. Image synthesis
@@ -26,10 +26,12 @@ There are multiple tricks of network architecture design in this paper to genera
 <p/>
 2. Multiscale Discriminator
  <p align='center'>    
-	<img src='./imgs/dis.png' width='440' height="550" />
+	<img src='./imgs/dis.png' width='340' height="550" />
 <p/>
 
+
 * Loss function
+
 
 The loss function consists of two parts:
 
@@ -52,12 +54,14 @@ The total loss is like the following
 
 
 * Summary
+
  - High Resolution Image Synthesis
  - instance level image appearance manipulation, but discrete chooose
  - user interactive image manipulation 
  - require instance map to improve image quality
  - supervised learning
  - almost realtime inference(20-30 ms on GTX 1080Ti)
+
 
 
 ### Multimodal Unsupervised Image-to-Image Translation
