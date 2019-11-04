@@ -3,7 +3,7 @@
 
 
 
-![Profil](imgs/profil.jpg | width=200)
+![Profil](imgs/profil.jpg )
 
 
 I'm currently pursuing my master degree at Eletrical and Computer Engineering Department, Technical University of Munich, Germany. At the same time, now I'm doing a Internship about vision-based Perception with GAN technique for L5 autonomous driving at Robert Bosch GmbH.
@@ -31,7 +31,7 @@ I am particularly keen to do some research on the application of artificial inte
 Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy Gradient(DDPG).
 
 [project](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/motion_learning_with_rl) | [video](https://youtu.be/oOG4bsWDT0M) | [github](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
-![](./imgs/poppy.gif | width=300)
+![](./imgs/poppy.gif )
 
 * **Car racing game playing**
 
@@ -39,7 +39,7 @@ Apply Deep Deterministic Policy Gradient(DDPG) to control Car agent's movement.
 
 [video](https://youtu.be/B1JdUByUQEw) | [torchs img](https://drive.google.com/uc?id=1DaJIMTrMArL7ODlry6aDYG2w3XFr3_UC&export=download)
 
-![](./imgs/torcs.gif | width=300)
+![](./imgs/torcs.gif )
 
 
 ### Blog
