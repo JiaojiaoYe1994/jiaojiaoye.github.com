@@ -3,7 +3,7 @@
 
 
 
-![Profil](imgs/profil.jpg)
+![Profil](imgs/profil.jpg | width=200)
 
 
 I'm currently pursuing my master degree at Eletrical and Computer Engineering Department, Technical University of Munich, Germany. At the same time, now I'm doing a Internship about vision-based Perception with GAN technique for L5 autonomous driving at Robert Bosch GmbH.
@@ -31,16 +31,15 @@ I am particularly keen to do some research on the application of artificial inte
 Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy Gradient(DDPG).
 
 [project](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/motion_learning_with_rl) | [video](https://youtu.be/oOG4bsWDT0M) | [github](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
-![](./imgs/poppy.gif)
+![](./imgs/poppy.gif | width=300)
 
 * **Car racing game playing**
 
 Apply Deep Deterministic Policy Gradient(DDPG) to control Car agent's movement.
 
 [video](https://youtu.be/B1JdUByUQEw) | [torchs img](https://drive.google.com/uc?id=1DaJIMTrMArL7ODlry6aDYG2w3XFr3_UC&export=download)
-<p align='center'>    
-	<img src='./imgs/torcs.gif' width='300'/>
-<p/>
+
+![](./imgs/torcs.gif | width=300)
 
 
 ### Blog
@@ -48,6 +47,11 @@ Apply Deep Deterministic Policy Gradient(DDPG) to control Car agent's movement.
 * **Image translation papers**
 
 In this [blog](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/paper/img_translation_paper), I summarize some recent papers from CVPR. ECCV related to topic image translation.
+
+
+* **Sequence model**
+In this [blog](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/paper/CVAE_sequence_model_papers), I summarize some papers related to topic Conditional VAE and Human-Robot Interaction,.
+
 
 ### Tutorial
 * **CS231n's Assignments** 
