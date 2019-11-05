@@ -39,7 +39,7 @@ Apply Deep Deterministic Policy Gradient(DDPG) to control Car agent's movement.
 
 [video](https://youtu.be/B1JdUByUQEw) | [torchs img](https://drive.google.com/uc?id=1DaJIMTrMArL7ODlry6aDYG2w3XFr3_UC&export=download)
 
-![](./imgs/torcs.gif )
+![](./imgs/torcs.gif ){:height="50%" width="50%"}
 
 
 ### Blog
@@ -50,6 +50,7 @@ In this [blog](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/pape
 
 
 * **Sequence model**
+
 In this [blog](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/paper/CVAE_sequence_model_papers), I summarize some papers related to topic Conditional VAE and Human-Robot Interaction,.
 
 

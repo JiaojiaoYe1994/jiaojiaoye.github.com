@@ -5,7 +5,7 @@ In this blog, I summarize some Paper, focused on topics, Conditional VAE and Pro
 
 # 1. Accurate and Diverse Sampling of Sequences based on a "Best of Many" Sample Objects
 
-[paper]()(https://arxiv.org/abs/1806.07772) | [github](https://github.com/apratimbhattacharyya18/CGM_BestOfMany)
+[paper](https://arxiv.org/abs/1806.07772) | [github](https://github.com/apratimbhattacharyya18/CGM_BestOfMany)
 
  2018 CVPR paper from Corporation of Max Planck Institute for Informatics and Saarland Informatics Campus. This paper applies the CVAE combined with LSTM in trajectory prediction and with Conv-LSTM in image sequence prediction problem.
 
@@ -29,7 +29,9 @@ x_data (60000,10,2)  y_data(60000,107,2)
 
 
 
-- **CVAE**  :empirical lower bound using Monte-Carlo Sampling
+* **CVAE**  
+
+empirical lower bound using Monte-Carlo Sampling
 
 <p align='center'>    
 	<img src='./imgs/sequence_model/CVAE_MC.png' width='440'/>
@@ -39,7 +41,7 @@ x_data (60000,10,2)  y_data(60000,107,2)
 
 
 
-- **Many Sample objective**
+* **Many Sample objective**
 
 encourages the diversity in the generated samples, since has multiple chances to draw samples. has numerical stability issue. 
 
@@ -49,7 +51,7 @@ encourages the diversity in the generated samples, since has multiple chances to
 
 
 
-- **Best of Many Samples**
+* **Best of Many Samples**
 
   approximate the sum with maximum 
 
@@ -59,11 +61,7 @@ encourages the diversity in the generated samples, since has multiple chances to
 
 
 
-
-
-
-
-- **Model architecture** for structured trajectory prediction
+* **Model architecture** for structured trajectory prediction
 
 <p align='center'>    
 	<img src='./imgs/sequence_model/model_architecture.png' width='440'/>
@@ -72,13 +70,11 @@ encourages the diversity in the generated samples, since has multiple chances to
 
 
 
-**Result of BMS**
+* **Result of BMS**
 
 fix initial stroke length at 10, generate diverse samples from LSTM-BMS model. clustered using k-means
 
-<p align='center'>    
-	<img src='./imgs/sequence_model/BMS_result.png' width='540'/>
-<p/>
+![](./imgs/sequence_model/BMS_result.png )
 
 
 # 2. Learning and Inferring Movement with Deep Generative Model
