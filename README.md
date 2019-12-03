@@ -36,7 +36,7 @@ Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy G
 
 * **Car racing game playing**
 
-Apply Deep Deterministic Policy Gradient(DDPG) to control Car agent's movement.
+Apply Deep Deterministic Policy Gradient(DDPG) to control [Torcs](https://sourceforge.net/projects/torcs/) agent's movement.  
 
 [video](https://youtu.be/B1JdUByUQEw) | [torchs img](https://drive.google.com/uc?id=1DaJIMTrMArL7ODlry6aDYG2w3XFr3_UC&export=download)
 
