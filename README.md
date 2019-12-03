@@ -3,20 +3,20 @@
 
 
 
-![Profil](imgs/profil.jpg )
+![Profil](imgs/profil.jpg ){:height="50%" width="50%"}
 
 
 I'm currently pursuing my master degree at Eletrical and Computer Engineering Department, Technical University of Munich, Germany. At the same time, now I'm doing a Internship about vision-based Perception with GAN technique for L5 autonomous driving at Robert Bosch GmbH.
 
 Before this, 2016 I got my Bachelor of Engineer at Zhejiang University in China. Through different lectures and projects, I have obtained the chance to be exposed to the field of artificial intelligence, robotics, data analysis and computer vision. 
 
-I am now a part of the AI research Lab at Volkswagen Data Lab, working on Conditional VAE and Probabilistic Movement Primitives on Human-Robot-Interaction. 
+I am now a part of the [AI research Lab](https://argmax.ai) at Volkswagen Data Lab, working on Conditional VAE and Probabilistic Movement Primitives on Human-Robot-Interaction. 
 
 I am particularly keen to do some research on the application of artificial intelligence, especially the combination of Robotics and Artificial Intelligence.
 
 **Email:** jiaojiao.ye@tum.de
 
-[GitHub](https://github.com/JiaojiaoYe1994) | [Linkedin](https://www.linkedin.com/in/jiaojiao-ye-99830b14a/)
+[GitHub](https://github.com/JiaojiaoYe1994) | [Linkedin](https://www.linkedin.com/in/jiaojiao-ye-99830b14a/) | [ResearchGate](https://www.researchgate.net/profile/Jiaojiao_Ye)
 
 
 ### Research Interest
@@ -31,14 +31,13 @@ I am particularly keen to do some research on the application of artificial inte
 Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy Gradient(DDPG).
 
 [project](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/motion_learning_with_rl) | [video](https://youtu.be/oOG4bsWDT0M) | [github](https://github.com/JiaojiaoYe1994/Robot-Motion-Learning-with-Reinforcement-Learning)
-![](./imgs/poppy.gif )
+![](./imgs/poppy.gif ){:height="50%" width="50%"}
 
 * **Car racing game playing**
 
 Apply Deep Deterministic Policy Gradient(DDPG) to control Car agent's movement.
 
 [video](https://youtu.be/B1JdUByUQEw) | [torchs img](https://drive.google.com/uc?id=1DaJIMTrMArL7ODlry6aDYG2w3XFr3_UC&export=download)
-
 ![](./imgs/torcs.gif ){:height="50%" width="50%"}
 
 
