@@ -24,9 +24,23 @@ I am particularly keen to do some research on the application of artificial inte
 * **Robotics**: Trajectory Planning, Motion Control
 * **Computer Vision**: Image Synthesis, Image Manipulation
 
-
 ### Projects
-* **Motion Planning with Reinforcement Learning** 
+
+* **Conditional VAE in Human-Robot Interaction**
+
+Deep Learning for robot motion planning in human-robot interaction. We propose a real-time probabilistic model using LSTM-based conditional variational autoencoder (CVAE) for structured robot control policy learning and inference.
+
+![](./imgs/mia_panda.gif ){:height="50%" width="50%" align="center"}
+
+* **Car racing game playing**
+
+Apply Deep Reinforcement Learning to control [Torcs](https://sourceforge.net/projects/torcs/) agent's movement.  
+
+[video](https://youtu.be/B1JdUByUQEw) | [torchs img](https://drive.google.com/uc?id=1DaJIMTrMArL7ODlry6aDYG2w3XFr3_UC&export=download)
+
+![](./imgs/torcs.gif ){:height="50%" width="50%" align="center"}
+
+**Motion Planning with Reinforcement Learning** 
 
 Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy Gradient(DDPG).
 
@@ -34,13 +48,7 @@ Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy G
 
 ![](./imgs/poppy.gif ){:height="50%" width="50%" align="center"}
 
-* **Car racing game playing**
 
-Apply Deep Deterministic Policy Gradient(DDPG) to control [Torcs](https://sourceforge.net/projects/torcs/) agent's movement.  
-
-[video](https://youtu.be/B1JdUByUQEw) | [torchs img](https://drive.google.com/uc?id=1DaJIMTrMArL7ODlry6aDYG2w3XFr3_UC&export=download)
-
-![](./imgs/torcs.gif ){:height="50%" width="50%" align="center"}
 
 
 ### Blog
