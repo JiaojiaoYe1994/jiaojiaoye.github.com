@@ -2,7 +2,7 @@
 =============================================================
 
 
-### Istanbul-Turkey🇫🇷
+### Istanbul-Turkey🇹🇷
 <p align='center'>    
 	<img src='./imgs/istanbul1.JPG' width='440'/>
 <p/>
@@ -15,42 +15,60 @@
 
 
 
-### Spain🇪🇸
+### Madrid-Spain🇪🇸
 <p align='center'>    
 	<img src='./imgs/spain-m1.JPG' width='440'/>
 <p/>
 
 
 
-### Niederland 🇳🇱
+### Amsterdam-Niederland 🇳🇱
 <p align='center'>    
 	<img src='./imgs/niederland-a1.JPG' width='440'/>
 <p/>
 
 
-### Italy🇮🇹
+### Milano-Italy🇮🇹
 
+<p align='center'>    
+	<img src='./imgs/milano.JPG' width='440'/>
+<p/>
 
-
-### Norway🇳🇴
+### Oslo-Norway🇳🇴
 <p align='center'>    
 	<img src='./imgs/norway-b1.JPG' width='440'/>
 <p/>
+* Bergen
 
+  ![milano](/Users/niuniu/Downloads/bergen.JPG)
 
-### Crech🇨🇿 - Prague
+### Prague-Crech🇨🇿 
 <p align='center'>    
 	<img src='./imgs/prague1.jpg' width='440'/>
 <p/>
 
 
-### Germany🇩🇪 -
+### Bonn-Germany🇩🇪
 <p align='center'>    
 	<img src='./imgs/bonn.JPG' width='440'/>
 <p/>
+Munich-Germany🇩🇪
 
+<p align='center'>    
+	<img src='./imgs/munich1.JPG' width='440'/>
+<p/>
 
-### China🇨🇳 - Tibet -Xiamen -Disneyland
+### Schliersee-Germany🇩🇪
+
+<p align='center'>    
+	<img src='./imgs/schliersee.JPG' width='440'/>
+<p/>
+
+### China🇨🇳 - Tibet - Xiamen - Nanjing - Ningbo - Shanghai Disneyland resort
+
+<p align='center'>    
+	<img src='./imgs/tibet.JPG' width='440'/>
+<p/>
 
 
 
