@@ -40,7 +40,9 @@
 <p/>
 * Bergen
 
-  ![milano](/Users/niuniu/Downloads/bergen.JPG)
+  <p align='center'>    
+  	<img src='./imgs/bergen.JPG' width='440'/>
+  <p/>
 
 ### Prague-Crech🇨🇿 
 <p align='center'>    
