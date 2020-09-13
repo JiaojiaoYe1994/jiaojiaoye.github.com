@@ -16,7 +16,7 @@ I am particularly keen to do some research on the application of artificial inte
 
 **Email:** jiaojiao.ye@tum.de
 
-[GitHub](https://github.com/JiaojiaoYe1994) | [Linkedin](https://www.linkedin.com/in/jiaojiao-ye-99830b14a/) | [ResearchGate](https://www.researchgate.net/profile/Jiaojiao_Ye)
+[GitHub](https://github.com/JiaojiaoYe1994) | [Linkedin](https://www.linkedin.com/in/jiaojiao-ye-99830b14a/) | [ResearchGate](https://www.researchgate.net/profile/Jiaojiao_Ye) | [Profile](https://argmax.ai/team/jiaojiao-ye/)
 
 
 ### Research Interest
@@ -28,7 +28,7 @@ I am particularly keen to do some research on the application of artificial inte
 
 * **Conditional VAE in Human-Robot Interaction**
 
-Deep Learning for robot motion planning in human-robot interaction. We propose a real-time probabilistic model using LSTM-based conditional variational autoencoder (CVAE) for structured robot control policy learning and inference.
+Deep Learning for robot motion planning in human-robot interaction. We propose a real-time probabilistic model using LSTM-based conditional variational autoencoder (CVAE) for structured robot control policy learning and inference. 
 
 ![](./imgs/mia_panda.gif ){:height="50%" width="50%" align="center"}
 
