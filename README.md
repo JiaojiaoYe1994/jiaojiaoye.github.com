@@ -63,7 +63,7 @@ In this [blog](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/pape
 
 * Segmentation
 
-In this [blog](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/paper/CVAE_sequence_model_papers),I show a brief introduction of image segmentation and summarize some awesome work. 
+In this [blog](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/paper/CVAE_sequence_model_papers),I show a brief introduction of image segmentation and summarize some awesome work of this direction. 
 
 
 ### Tutorial
