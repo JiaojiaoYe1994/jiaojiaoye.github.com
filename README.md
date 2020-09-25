@@ -20,7 +20,7 @@ I am particularly keen to do some research on the application of artificial inte
 
 
 ### Research Interest
-* **Machine Learning**: Generative Model, Reinforcement Learning, Feature Representation, Classification, High Dimension Reduction
+* **Machine Learning**: Nas, Generative Model, Reinforcement Learning, Feature Representation, Classification, High Dimension Reduction
 * **Robotics**: Trajectory Planning, Motion Control
 * **Computer Vision**: Image Synthesis, Image Manipulation
 
@@ -61,7 +61,7 @@ In this [blog](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/pape
 
 In this [blog](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/paper/CVAE_sequence_model_papers), I summarize some papers related to topic Conditional VAE and Human-Robot Interaction,.
 
-* Segmentation
+* **Segmentation**
 
 In this [blog](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/paper/CVAE_sequence_model_papers),I show a brief introduction of image segmentation and summarize some awesome work of this direction. 
 
