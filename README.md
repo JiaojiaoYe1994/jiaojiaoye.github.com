@@ -50,7 +50,6 @@ Poppy Humanoid robot reaching Movement Learning with Deep Deterministic Policy G
 
 
 
-
 ### Blog
 
 * **Image translation papers**
@@ -61,6 +60,10 @@ In this [blog](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/pape
 * **Sequence model**
 
 In this [blog](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/paper/CVAE_sequence_model_papers), I summarize some papers related to topic Conditional VAE and Human-Robot Interaction,.
+
+* Segmentation
+
+In this [blog](https://jiaojiaoye1994.github.io/jiaojiaoye.github.com/posts/paper/CVAE_sequence_model_papers),I show a brief introduction of image segmentation and summarize some awesome work. 
 
 
 ### Tutorial
