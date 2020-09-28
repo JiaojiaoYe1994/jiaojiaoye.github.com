@@ -101,6 +101,7 @@ Other than previous two criterion, there are several other metrics for evaluatin
 
   measures the intersection over the union of the labelled segments for each class and reports the average
 
+  The `Jaccard index`_, also known as Intersection over Union and the Jaccard similarity coefficient.
   $$ a =q $$
 
 * **IoU class:** Intersection over Union for each class 
