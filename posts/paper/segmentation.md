@@ -25,6 +25,11 @@ In this blog, I will a brief introduction to Image segmentation with Deep Learni
 Different from classification and object detection, segmentation describes the process of classifying each pixels to a certain class. Essentially, segmentation is pixel-level classification. According to fidelity of classification, it can be divided into the following areas: 
 
 
+### Superpixels
+
+Superpixels can be defined as a set of pixels, which has similary features such as color, texture.  Note here, one object can be split into several superpixels. One usual way to detct superpixels is SLIC(Simple linear iterative clustering), it was proposed by Achanta in 2010. The idea is to transform RGB image to CIELAB and 5D feature vector, then cluster pixels according to distance measured using 5D feature vector.
+
+
 
 ### Semantic segmentation
 
@@ -34,13 +39,13 @@ The goal of semantic image segmentation is to label *each pixel* of an image wit
 
 ### Instance segmentation
 
-Instance segmentation gives a unique label to every instance of a particle object in the image. For example, for dog1 in one image, it will will label it as dog1, dog2, dog3 , while semantic segmentation classifies it as one label dog.
+Instance segmentation gives a unique label to every instance of a particle object in the image. For example, for dog1 in one image, it will will label it as dog1, dog2, dog3 , while semantic segmentation classifies it as one label dog. However, instance segmentation only cares about objects, it doesn't care about "stuff", such as sky, grass.
 
 
 
 ### Panoptic segmentation
 
-It was first introduced in  by Kaiming He, cooperated FAIR and Heidelberg University  in 2018 . Panoptic segmentation will give every pixel a label and instance ID.
+It was first introduced in  by Kaiming He, cooperated FAIR and Heidelberg University  in 2018 . Panoptic segmentation will give every pixel a label and instance ID. It is a combination of semantic segmentation and instance segmentation. 
 
 
 
